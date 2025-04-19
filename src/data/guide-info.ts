@@ -19,68 +19,56 @@ export const guideInfo = {
   services: {
     en: [
       {
-        title: "Private Tours of Luxor Temple",
-        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+        title: "Nile Cruise: Luxor to Aswan",
+        image: "https://images.unsplash.com/photo-1583531172979-0c5e9c6a7973"
       },
       {
-        title: "Valley of the Kings Guided Tours",
-        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+        title: "Nile Cruise in Luxor",
+        image: "https://images.unsplash.com/photo-1522163182402-834f871fd851"
       },
       {
-        title: "Karnak Temple Complex Tours",
-        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+        title: "Horse Riding Trip in Luxor",
+        image: "https://images.unsplash.com/photo-1608096299210-2f8a4ebf9f6c"
       },
       {
-        title: "Nile River Sunset Tours",
-        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
-      },
-      {
-        title: "Custom Historical Tours",
-        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+        title: "Peach Buggy Cruise in Luxor",
+        image: "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa"
       }
     ],
     ar: [
       {
-        title: "جولات خاصة في معبد الأقصر",
-        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+        title: "رحلة نيلية من الأقصر إلى أسوان",
+        image: "https://images.unsplash.com/photo-1583531172979-0c5e9c6a7973"
       },
       {
-        title: "جولات وادي الملوك",
-        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+        title: "رحلة نيلية في الأقصر",
+        image: "https://images.unsplash.com/photo-1522163182402-834f871fd851"
       },
       {
-        title: "جولات مجمع معبد الكرنك",
-        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+        title: "رحلة ركوب الخيل في الأقصر",
+        image: "https://images.unsplash.com/photo-1608096299210-2f8a4ebf9f6c"
       },
       {
-        title: "جولات غروب الشمس في النيل",
-        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
-      },
-      {
-        title: "جولات تاريخية مخصصة",
-        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+        title: "جولة بعربة الخوخ في الأقصر",
+        image: "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa"
       }
     ],
     fr: [
       {
-        title: "Visites privées du temple de Louxor",
-        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+        title: "Croisière sur le Nil : Louxor à Assouan",
+        image: "https://images.unsplash.com/photo-1583531172979-0c5e9c6a7973"
       },
       {
-        title: "Visites guidées de la Vallée des Rois",
-        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+        title: "Croisière sur le Nil à Louxor",
+        image: "https://images.unsplash.com/photo-1522163182402-834f871fd851"
       },
       {
-        title: "Visites du complexe du temple de Karnak",
-        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+        title: "Randonnée à cheval à Louxor",
+        image: "https://images.unsplash.com/photo-1608096299210-2f8a4ebf9f6c"
       },
       {
-        title: "Croisières au coucher du soleil sur le Nil",
-        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
-      },
-      {
-        title: "Visites historiques personnalisées",
-        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+        title: "Circuit en buggy à Louxor",
+        image: "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa"
       }
     ],
     zh: [
@@ -189,7 +177,7 @@ export const guideInfo = {
         image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
       },
       {
-        title: "कस्टम ऐतिहासिक यात्राएं",
+        title: "कस्ट��� ऐतिहासिक यात्राएं",
         image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
       }
     ]
