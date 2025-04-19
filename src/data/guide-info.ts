@@ -20,7 +20,7 @@ export const guideInfo = {
     en: [
       {
         title: "Nile Cruise: Luxor to Aswan",
-        image: "https://images.unsplash.com/photo-1583531172979-0c5e9c6a7973"
+        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "Nile Cruise in Luxor",
@@ -38,7 +38,7 @@ export const guideInfo = {
     ar: [
       {
         title: "رحلة نيلية من الأقصر إلى أسوان",
-        image: "https://images.unsplash.com/photo-1583531172979-0c5e9c6a7973"
+        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "رحلة نيلية في الأقصر",
@@ -56,7 +56,7 @@ export const guideInfo = {
     fr: [
       {
         title: "Croisière sur le Nil : Louxor à Assouan",
-        image: "https://images.unsplash.com/photo-1583531172979-0c5e9c6a7973"
+        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "Croisière sur le Nil à Louxor",
