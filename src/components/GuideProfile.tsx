@@ -1,7 +1,7 @@
-
 import { guideInfo } from "@/data/guide-info";
 import { translations, Language } from "@/data/translations";
 import { Phone, Instagram } from "lucide-react";
+import ServiceCard from './ServiceCard';
 
 interface GuideProfileProps {
   currentLang: Language;
@@ -14,7 +14,7 @@ const GuideProfile = ({ currentLang }: GuideProfileProps) => {
   };
 
   return (
-    <div className="max-w-2xl mx-auto px-4 py-8 min-h-screen flex items-center">
+    <div className="max-w-7xl mx-auto px-4 py-8 min-h-screen">
       <div className="bg-white/90 backdrop-blur-sm rounded-xl shadow-xl p-6 mb-8 border border-amber-100">
         <div className="w-24 h-24 mx-auto mb-4 bg-gradient-to-br from-amber-500 to-amber-700 rounded-full flex items-center justify-center">
           <span className="text-3xl text-white font-bold">
@@ -57,15 +57,17 @@ const GuideProfile = ({ currentLang }: GuideProfileProps) => {
         </div>
 
         <div className="border-t border-amber-100 pt-6">
-          <h3 className="text-2xl font-semibold mb-4 text-amber-900">{translations[currentLang].services}</h3>
-          <ul className="space-y-3">
+          <h3 className="text-2xl font-semibold mb-6 text-amber-900">{translations[currentLang].services}</h3>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {guideInfo.services[currentLang].map((service, index) => (
-              <li key={index} className="flex items-center gap-3 text-gray-700">
-                <span className="w-2 h-2 bg-amber-500 rounded-full"></span>
-                <span className="leading-relaxed">{service}</span>
-              </li>
+              <ServiceCard
+                key={index}
+                title={service.title}
+                imageUrl={service.image}
+                currentLang={currentLang}
+              />
             ))}
-          </ul>
+          </div>
         </div>
       </div>
     </div>

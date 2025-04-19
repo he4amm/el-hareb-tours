@@ -1,4 +1,3 @@
-
 import { translations } from "./translations";
 
 export const guideInfo = {
@@ -19,61 +18,191 @@ export const guideInfo = {
   instagram: "@luxor_guide_ahmed",
   services: {
     en: [
-      "Private Tours of Luxor Temple",
-      "Valley of the Kings Guided Tours",
-      "Karnak Temple Complex Tours",
-      "Nile River Sunset Tours",
-      "Custom Historical Tours"
+      {
+        title: "Private Tours of Luxor Temple",
+        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+      },
+      {
+        title: "Valley of the Kings Guided Tours",
+        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+      },
+      {
+        title: "Karnak Temple Complex Tours",
+        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+      },
+      {
+        title: "Nile River Sunset Tours",
+        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+      },
+      {
+        title: "Custom Historical Tours",
+        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+      }
     ],
     ar: [
-      "جولات خاصة في معبد الأقصر",
-      "جولات وادي الملوك",
-      "جولات مجمع معبد الكرنك",
-      "جولات غروب الشمس في النيل",
-      "جولات تاريخية مخصصة"
+      {
+        title: "جولات خاصة في معبد الأقصر",
+        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+      },
+      {
+        title: "جولات وادي الملوك",
+        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+      },
+      {
+        title: "جولات مجمع معبد الكرنك",
+        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+      },
+      {
+        title: "جولات غروب الشمس في النيل",
+        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+      },
+      {
+        title: "جولات تاريخية مخصصة",
+        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+      }
     ],
     fr: [
-      "Visites privées du temple de Louxor",
-      "Visites guidées de la Vallée des Rois",
-      "Visites du complexe du temple de Karnak",
-      "Croisières au coucher du soleil sur le Nil",
-      "Visites historiques personnalisées"
+      {
+        title: "Visites privées du temple de Louxor",
+        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+      },
+      {
+        title: "Visites guidées de la Vallée des Rois",
+        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+      },
+      {
+        title: "Visites du complexe du temple de Karnak",
+        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+      },
+      {
+        title: "Croisières au coucher du soleil sur le Nil",
+        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+      },
+      {
+        title: "Visites historiques personnalisées",
+        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+      }
     ],
     zh: [
-      "卢克索神庙私人导览",
-      "帝王谷导览游",
-      "卡纳克神庙群游览",
-      "尼罗河日落游船",
-      "定制历史游览"
+      {
+        title: "卢克索神庙私人导览",
+        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+      },
+      {
+        title: "帝王谷导览游",
+        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+      },
+      {
+        title: "卡纳克神庙群游览",
+        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+      },
+      {
+        title: "尼罗河日落游船",
+        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+      },
+      {
+        title: "定制历史游览",
+        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+      }
     ],
     es: [
-      "Tours privados del Templo de Luxor",
-      "Tours guiados al Valle de los Reyes",
-      "Tours del Complejo del Templo de Karnak",
-      "Tours del atardecer en el Nilo",
-      "Tours históricos personalizados"
+      {
+        title: "Tours privados del Templo de Luxor",
+        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+      },
+      {
+        title: "Tours guiados al Valle de los Reyes",
+        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+      },
+      {
+        title: "Tours del Complejo del Templo de Karnak",
+        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+      },
+      {
+        title: "Tours del atardecer en el Nilo",
+        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+      },
+      {
+        title: "Tours históricos personalizados",
+        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+      }
     ],
     pt: [
-      "Tours privados do Templo de Luxor",
-      "Tours guiados ao Vale dos Reis",
-      "Tours do Complexo do Templo de Karnak",
-      "Tours do pôr do sol no Nilo",
-      "Tours históricos personalizados"
+      {
+        title: "Tours privados do Templo de Luxor",
+        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+      },
+      {
+        title: "Tours guiados ao Vale dos Reis",
+        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+      },
+      {
+        title: "Tours do Complexo do Templo de Karnak",
+        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+      },
+      {
+        title: "Tours do pôr do sol no Nilo",
+        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+      },
+      {
+        title: "Tours históricos personalizados",
+        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+      }
     ],
     de: [
-      "Private Führungen durch den Luxor-Tempel",
-      "Geführte Touren durchs Tal der Könige",
-      "Karnak-Tempelkomplex Führungen",
-      "Nil-Sonnenuntergang-Touren",
-      "Individuelle historische Führungen"
+      {
+        title: "Private Führungen durch den Luxor-Tempel",
+        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+      },
+      {
+        title: "Geführte Touren durchs Tal der Könige",
+        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+      },
+      {
+        title: "Karnak-Tempelkomplex Führungen",
+        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+      },
+      {
+        title: "Nil-Sonnenuntergang-Touren",
+        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+      },
+      {
+        title: "Individuelle historische Führungen",
+        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+      }
     ],
     hi: [
-      "लक्सर मंदिर की निजी यात्राएं",
-      "किंग्स वैली की गाइडेड टूर",
-      "कारनक मंदिर परिसर की यात्राएं",
-      "नील नदी सूर्यास्त यात्राएं",
-      "कस्टम ऐतिहासिक यात्राएं"
+      {
+        title: "लक्सर मंदिर की निजी यात्राएं",
+        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+      },
+      {
+        title: "किंग्स वैली की गाइडेड टूर",
+        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+      },
+      {
+        title: "कारनक मंदिर परिसर की यात्राएं",
+        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+      },
+      {
+        title: "नील नदी सूर्यास्त यात्राएं",
+        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+      },
+      {
+        title: "कस्टम ऐतिहासिक यात्राएं",
+        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+      }
     ]
+  },
+  whatsappMsg: {
+    en: "Hello, I'm interested in more details about",
+    ar: "مرحبا، أود معرفة المزيد عن",
+    fr: "Bonjour, je souhaite plus d'informations sur",
+    zh: "你好，我想了解更多关于",
+    es: "Hola, me gustaría saber más detalles sobre",
+    pt: "Olá, gostaria de mais detalhes sobre",
+    de: "Hallo, ich möchte mehr Details über",
+    hi: "नमस्ते, मैं इसके बारे में अधिक जानकारी चाहता हूं"
   }
 } as const;
 
