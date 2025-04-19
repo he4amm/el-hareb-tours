@@ -32,7 +32,7 @@ export const guideInfo = {
       },
       {
         title: "Peach Buggy Cruise in Luxor",
-        image: "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa"
+        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     ar: [
@@ -50,7 +50,7 @@ export const guideInfo = {
       },
       {
         title: "جولة بعربة الخوخ في الأقصر",
-        image: "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa"
+        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     fr: [
@@ -68,7 +68,7 @@ export const guideInfo = {
       },
       {
         title: "Circuit en buggy à Louxor",
-        image: "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa"
+        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     zh: [
@@ -81,7 +81,7 @@ export const guideInfo = {
         image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
       },
       {
-        title: "卡纳克神庙群游���",
+        title: "卡纳��神庙群游���",
         image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
       },
       {
