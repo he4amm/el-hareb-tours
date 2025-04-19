@@ -73,112 +73,92 @@ export const guideInfo = {
     ],
     zh: [
       {
-        title: "卢克索神庙私人导览",
-        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+        title: "尼罗河游轮：卢克索至阿斯旺",
+        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
-        title: "帝王谷导览游",
-        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+        title: "卢克索尼罗河游轮",
+        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
-        title: "卡纳��神庙群游���",
-        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+        title: "卢克索骑马之旅",
+        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
-        title: "尼罗河日落游船",
-        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
-      },
-      {
-        title: "定制历史游览",
-        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+        title: "卢克索沙滩车之旅",
+        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     es: [
       {
-        title: "Tours privados del Templo de Luxor",
-        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+        title: "Crucero por el Nilo: Luxor a Asuán",
+        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
-        title: "Tours guiados al Valle de los Reyes",
-        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+        title: "Crucero por el Nilo en Luxor",
+        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
-        title: "Tours del Complejo del Templo de Karnak",
-        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+        title: "Paseo a caballo en Luxor",
+        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
-        title: "Tours del atardecer en el Nilo",
-        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
-      },
-      {
-        title: "Tours históricos personalizados",
-        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+        title: "Paseo en buggy en Luxor",
+        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     pt: [
       {
-        title: "Tours privados do Templo de Luxor",
-        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+        title: "Cruzeiro no Nilo: Luxor a Assuão",
+        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
-        title: "Tours guiados ao Vale dos Reis",
-        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+        title: "Cruzeiro no Nilo em Luxor",
+        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
-        title: "Tours do Complexo do Templo de Karnak",
-        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+        title: "Passeio a cavalo em Luxor",
+        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
-        title: "Tours do pôr do sol no Nilo",
-        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
-      },
-      {
-        title: "Tours históricos personalizados",
-        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+        title: "Passeio de buggy em Luxor",
+        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     de: [
       {
-        title: "Private Führungen durch den Luxor-Tempel",
-        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+        title: "Nilkreuzfahrt: Luxor nach Assuan",
+        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
-        title: "Geführte Touren durchs Tal der Könige",
-        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+        title: "Nilkreuzfahrt in Luxor",
+        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
-        title: "Karnak-Tempelkomplex Führungen",
-        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+        title: "Reiten in Luxor",
+        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
-        title: "Nil-Sonnenuntergang-Touren",
-        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
-      },
-      {
-        title: "Individuelle historische Führungen",
-        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+        title: "Buggy-Tour in Luxor",
+        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     hi: [
       {
-        title: "लक्सर मंदिर की निजी यात्राएं",
-        image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+        title: "नील क्रूज़: लक्सर से असवान",
+        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
-        title: "किंग्स वैली की गाइडेड टूर",
-        image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+        title: "लक्सर में नील क्रूज़",
+        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
-        title: "कारनक मंदिर परिसर की यात्राएं",
-        image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
+        title: "लक्सर में घुड़सवारी यात्रा",
+        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
-        title: "नील नदी सूर्यास्त यात्राएं",
-        image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
-      },
-      {
-        title: "कस्ट��� ऐतिहासिक यात्राएं",
-        image: "https://images.unsplash.com/photo-1466442929976-97f336a657be"
+        title: "लक्सर में बगी सवारी",
+        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ]
   },
