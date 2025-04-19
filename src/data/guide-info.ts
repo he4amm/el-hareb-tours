@@ -24,7 +24,7 @@ export const guideInfo = {
       },
       {
         title: "Nile Cruise in Luxor",
-        image: "https://images.unsplash.com/photo-1522163182402-834f871fd851"
+        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "Horse Riding Trip in Luxor",
@@ -42,7 +42,7 @@ export const guideInfo = {
       },
       {
         title: "رحلة نيلية في الأقصر",
-        image: "https://images.unsplash.com/photo-1522163182402-834f871fd851"
+        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "رحلة ركوب الخيل في الأقصر",
@@ -60,7 +60,7 @@ export const guideInfo = {
       },
       {
         title: "Croisière sur le Nil à Louxor",
-        image: "https://images.unsplash.com/photo-1522163182402-834f871fd851"
+        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "Randonnée à cheval à Louxor",
