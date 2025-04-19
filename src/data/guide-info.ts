@@ -1,7 +1,7 @@
 import { translations } from "./translations";
 
 export const guideInfo = {
-  name: "Ahmed Hassan",
+  name: "Mohamed El-Hareb",
   title: "Luxor Tourism Guide",
   bio: {
     en: "Professional tour guide with 10+ years of experience in Luxor's historical sites. Expert in Egyptian history and culture.",
