@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Button } from "@/components/ui/button";
 import { guideInfo } from "@/data/guide-info";
 import { Language } from "@/data/translations";
+import { toast } from "@/components/ui/sonner";
 
 interface ServiceCardProps {
   title: string;
@@ -14,6 +15,9 @@ const ServiceCard = ({ title, imageUrl, currentLang }: ServiceCardProps) => {
   const handleWhatsAppClick = () => {
     const message = encodeURIComponent(`${title} - ${guideInfo.whatsappMsg[currentLang]}`);
     window.open(`https://wa.me/${guideInfo.whatsapp.replace(/\+/g, '')}?text=${message}`);
+    
+    // Show a toast notification
+    toast.success(`WhatsApp message prepared for ${title}`);
   };
 
   return (
