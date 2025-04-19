@@ -22,7 +22,7 @@ const GuideProfile = ({ currentLang }: GuideProfileProps) => {
           </span>
         </div>
         
-        <h1 className="text-3xl font-bold mb-2 text-amber-900">{guideInfo.name}</h1>
+        <h1 className="text-3xl font-bold mb-2 text-amber-900 text-center">{guideInfo.name}</h1>
         <h2 className="text-xl text-amber-700 mb-4">{guideInfo.title}</h2>
         <p className="text-gray-700 mb-6 leading-relaxed">{guideInfo.bio[currentLang]}</p>
         
