@@ -28,7 +28,7 @@ export const guideInfo = {
       },
       {
         title: "Horse Riding Trip in Luxor",
-        image: "https://images.unsplash.com/photo-1608096299210-2f8a4ebf9f6c"
+        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "Peach Buggy Cruise in Luxor",
@@ -46,7 +46,7 @@ export const guideInfo = {
       },
       {
         title: "رحلة ركوب الخيل في الأقصر",
-        image: "https://images.unsplash.com/photo-1608096299210-2f8a4ebf9f6c"
+        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "جولة بعربة الخوخ في الأقصر",
@@ -64,7 +64,7 @@ export const guideInfo = {
       },
       {
         title: "Randonnée à cheval à Louxor",
-        image: "https://images.unsplash.com/photo-1608096299210-2f8a4ebf9f6c"
+        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "Circuit en buggy à Louxor",
@@ -81,7 +81,7 @@ export const guideInfo = {
         image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
       },
       {
-        title: "卡纳克神庙群游览",
+        title: "卡纳克神庙群游���",
         image: "https://images.unsplash.com/photo-1473177104440-ffee2f376098"
       },
       {
