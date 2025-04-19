@@ -1,3 +1,4 @@
+
 import { translations } from "./translations";
 
 export const guideInfo = {
@@ -20,145 +21,145 @@ export const guideInfo = {
     en: [
       {
         title: "Nile Cruise: Luxor to Aswan",
-        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
+        image: "./lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "Nile Cruise in Luxor",
-        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
+        image: "./lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "Horse Riding Trip in Luxor",
-        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
+        image: "./lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "Peach Buggy Cruise in Luxor",
-        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
+        image: "./lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     ar: [
       {
         title: "رحلة نيلية من الأقصر إلى أسوان",
-        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
+        image: "./lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "رحلة نيلية في الأقصر",
-        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
+        image: "./lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "رحلة ركوب الخيل في الأقصر",
-        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
+        image: "./lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "جولة بعربة الخوخ في الأقصر",
-        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
+        image: "./lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     fr: [
       {
         title: "Croisière sur le Nil : Louxor à Assouan",
-        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
+        image: "./lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "Croisière sur le Nil à Louxor",
-        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
+        image: "./lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "Randonnée à cheval à Louxor",
-        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
+        image: "./lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "Circuit en buggy à Louxor",
-        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
+        image: "./lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     zh: [
       {
         title: "尼罗河游轮：卢克索至阿斯旺",
-        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
+        image: "./lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "卢克索尼罗河游轮",
-        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
+        image: "./lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "卢克索骑马之旅",
-        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
+        image: "./lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "卢克索沙滩车之旅",
-        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
+        image: "./lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     es: [
       {
         title: "Crucero por el Nilo: Luxor a Asuán",
-        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
+        image: "./lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "Crucero por el Nilo en Luxor",
-        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
+        image: "./lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "Paseo a caballo en Luxor",
-        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
+        image: "./lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "Paseo en buggy en Luxor",
-        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
+        image: "./lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     pt: [
       {
         title: "Cruzeiro no Nilo: Luxor a Assuão",
-        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
+        image: "./lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "Cruzeiro no Nilo em Luxor",
-        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
+        image: "./lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "Passeio a cavalo em Luxor",
-        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
+        image: "./lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "Passeio de buggy em Luxor",
-        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
+        image: "./lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     de: [
       {
         title: "Nilkreuzfahrt: Luxor nach Assuan",
-        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
+        image: "./lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "Nilkreuzfahrt in Luxor",
-        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
+        image: "./lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "Reiten in Luxor",
-        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
+        image: "./lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "Buggy-Tour in Luxor",
-        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
+        image: "./lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ],
     hi: [
       {
         title: "नील क्रूज़: लक्सर से असवान",
-        image: "/public/lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
+        image: "./lovable-uploads/f7c6d84c-138c-48ff-ba4c-3dbc091d7d33.png"
       },
       {
         title: "लक्सर में नील क्रूज़",
-        image: "/public/lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
+        image: "./lovable-uploads/ba42b31a-0baf-44da-b60f-1b5f05554edf.png"
       },
       {
         title: "लक्सर में घुड़सवारी यात्रा",
-        image: "/public/lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
+        image: "./lovable-uploads/185cf80a-3273-43bf-89b0-4c96502664dc.png"
       },
       {
         title: "लक्सर में बगी सवारी",
-        image: "/public/lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
+        image: "./lovable-uploads/4365b700-3d7d-4a1c-b777-8d45114e6f10.png"
       }
     ]
   },
