@@ -13,8 +13,8 @@ export const guideInfo = {
     de: "Professioneller Reiseführer mit über 10 Jahren Erfahrung an den historischen Stätten von Luxor. Experte für ägyptische Geschichte und Kultur.",
     hi: "लक्सर के ऐतिहासिक स्थलों में 10+ वर्षों के अनुभव के साथ पेशेवर टूर गाइड। मिस्र के इतिहास और संस्कृति में विशेषज्ञ।"
   },
-  phone: "+20 123 456 789",
-  whatsapp: "+201234567890",
+  phone: "+201006067843",
+  whatsapp: "+201006067843",
   instagram: "@luxor_guide_ahmed",
   services: {
     en: [
